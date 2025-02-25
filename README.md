@@ -1,2 +1,2 @@
-# validacao-processo-seletivo
-Projeto utilizando Java básico para validação de processo seletivo.
+# Validacao Processo Seletivo
+Projeto para validar processos seletivos utilizando a linguagem Java. Foi criado listas, controles de fluxos para tomada de decisões e utilização de laços como for, while e do while para imprimir a lista dos aprovados.
